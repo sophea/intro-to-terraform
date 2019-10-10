@@ -26,7 +26,7 @@ following parts of the series:
     * [loops-with-for-each](./loops-with-for-each): Examples of how to use `for_each` to "loop" over inline blocks.        
     * [loops-with-for](./loops-with-for): Examples of how to use `for` to "loop" over individual values.        
 
-## Quick start
+## Quick start update
 
 **Note**: These examples deploy resources into your AWS account. Although all the resources should fall under the
 [AWS Free Tier](https://aws.amazon.com/free/), it is not our responsibility if you are charged money for this.
